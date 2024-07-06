@@ -42,7 +42,7 @@ let vmessLinks = [ //本地CFcdnVmess节点池
 ];
 let vmessLinksURL = 'https://raw.githubusercontent.com/cmliu/CFcdnVmess2sub/main/vmesslinks';//CFcdnVmess节点池URL
 let proxyhosts = [//本地代理域名池
-	//'ppfv2tl9veojd-maillazy.pages.dev',
+	//'',
 ];
 let proxyhostsURL = 'https://raw.githubusercontent.com/cmliu/CFcdnVmess2sub/main/proxyhosts';//在线代理域名池URL
 let FileName = 'CFcdnVmess2sub';
